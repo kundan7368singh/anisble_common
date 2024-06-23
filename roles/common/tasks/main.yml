@@ -1,0 +1,4 @@
+---
+- name: add precheck
+  win_shell:
+  
